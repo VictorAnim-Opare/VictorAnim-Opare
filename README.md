@@ -1,7 +1,8 @@
 - 👋 Hello 👋
 - Welcome to my GitHub account.
 - I'm Victor Anim-Opare.
-- Please find my Google Data Analytics Professional certificate in the link below
+- I'm glad to share that i have successfully completed the Google Data Analytics Professional course.
+- Please find my certificate in the link below.
 - https://www.coursera.org/account/accomplishments/professional-cert/QBAU5VSAE5SK
 - Thank You!
 
